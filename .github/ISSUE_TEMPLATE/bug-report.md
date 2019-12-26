@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report about an issue with the mod
-title: Bug Report - <Mod Name> <Minecraft Version>
+title: "<Title> - <Mod Name> <Minecraft Version>"
 labels: Bug
 assignees: ''
 

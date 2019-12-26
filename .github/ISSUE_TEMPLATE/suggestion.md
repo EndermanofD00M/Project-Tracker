@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Give us a request or a suggestion for a mod
-title: Suggestion - <Mod Name> <Minecraft Version>
+title: "<Title> - <Mod Name> <Minecraft Version>"
 labels: Suggestion
 assignees: ''
 
