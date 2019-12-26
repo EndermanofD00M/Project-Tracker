@@ -1,7 +1,7 @@
 ---
 name: Crash Report
 about: Create a report about a crash that occurred with the mod
-title: Crash Report
+title: Crash Report - <Mod Name> <Minecraft Version>
 labels: Fatal Bug
 assignees: ''
 
